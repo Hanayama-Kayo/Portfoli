@@ -1,0 +1,151 @@
+@media (max-width:1210px) {
+    .header-content{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .content-1{
+        height: 800px;
+    }
+    .grap{
+        flex-direction: column;
+    }
+    header{
+        height: 1600px;
+    }
+    .about-sections-card{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .main-card{
+        margin-top: 50px;
+    }
+    .con{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .content-4{
+        height: 800px;
+    }
+    .footer-db{
+        flex-direction: column;
+        text-align: center  ;
+    }
+    .f-1{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .f-2{
+        margin-bottom: 20px;
+    }
+    .f-3{
+        margin-bottom: 20px;
+    }
+   
+}
+@media(max-width:1029px) {
+    .content-4{
+        margin-top: 1400px;
+    }
+}
+@media(max-width:870px) {
+    .navbar{
+        justify-content: space-between;
+        padding: 20px 20px 0px 20px;
+    }
+    .center{
+        display: none;
+    }
+    .right{
+        display: none;
+    }
+    .dropdown{
+        display: block;
+    }
+    .h-c-left h1{
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .header-content{
+        margin-top: -1px;
+    }
+    .h-c-left .h-c-btn{
+        font-size: 13px;
+        padding: 10px 27px;
+    }
+    .h-c-right{
+        text-align: center;
+    }
+    .about{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .about-card{
+        margin-top: 20px;
+    }
+    .about-card-1{
+        margin-top: 20px;
+    }
+    .content-2{
+        height: 700px;
+    }
+}
+@media (max-width:610px) {
+    .about{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+@media (max-width:545px) {
+    .content-2{
+        height: 1300px;
+    }
+    .main-card{
+        width: 450px;
+        height: 500px;
+        margin-bottom: 100px;
+    }
+    .main-card-img{
+        width: 100%;
+        height: 60%;
+    }
+    
+}   
+@media (max-width:375px) {
+    .h-c-left h1{
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .h-c-left .h-c-btn-1{
+        font-size: 13px;
+        padding: 10px 27px;
+    }
+    .h-c-left h5{
+        font-size: 18px;
+        margin-left: -10px;
+        
+    }
+    .content-2 h1{
+        font-size: 35px;
+    }
+    
+}
+@media (max-width:302px) {
+    .content-3 h1{
+       font-size: 25px;
+    }
+   
+}
+@media (max-width:280px) {
+    .h-c-left h1{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    
+}
